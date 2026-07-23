@@ -3,7 +3,7 @@
 #include <WebServer.h>
 #include <DNSServer.h>
 
-// Hotspot (Access Point) settings — this is the network YOU connect to
+// Hotspot
 const char* ap_ssid = "Free_WiFi";      // name that shows up in WiFi list
 const char* ap_password = "";            // "" = open network (no password)
 
